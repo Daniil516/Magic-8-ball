@@ -19,7 +19,9 @@ ruby main.rb
 This is my first ruby app. "That's one small step for man, one giant leap for mankind." :)
 
 
-## РУС.,
+## RUS
+
+## Волшебный шар
 Вы хотите увидеть свою судьбу?....... Вы находитесь в нужном месте
 
 ### Механика
