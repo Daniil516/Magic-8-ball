@@ -3,6 +3,8 @@ Do you want to see your destiny?.......  You're in the right place
 
 ### Mechanics
 You ask question, launch the app and see your destiny....
+![изображение](https://user-images.githubusercontent.com/83035520/193456615-250f22af-4587-46e0-87f0-d2a3cdbb7a33.png)
+
 
 ### To start
 
@@ -26,6 +28,8 @@ This is my first ruby app. "That's one small step for man, one giant leap for ma
 
 ### Механика
 Вы задаётесь вопросом, запускаете приложение и узнаёте свою судьбу.......
+![изображение](https://user-images.githubusercontent.com/83035520/193456618-c256e323-f0c7-45f3-852f-c0cf0c6c9bc6.png)
+
 
 ### Чтобы запустить
 
