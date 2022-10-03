@@ -27,11 +27,13 @@ answers = [
   "Outlook not so good.",
   "Very doubtful. "
 ]
+
 greetings = [
   "Hello my dear friend. As for your question...",
   "Who asks, he will receive an answer:",
   "Hello, mortal. Today is the answer for you:"
 ]
+
 puts greetings.sample
 sleep(3)
 puts answers.sample
